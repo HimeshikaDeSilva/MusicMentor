@@ -23,7 +23,8 @@ const Header = () => {
         </div>
         <ul className="nav__links" id="nav-links">
           <li className="link">
-            <Link to="/contact">Contact Us</Link>
+            {/* contact us */}
+            <Link to="/contact">Contact Us</Link>  
           </li>
           <li className="link">
             <Link to="#browse-tutorials">Discover Tutorials</Link>
