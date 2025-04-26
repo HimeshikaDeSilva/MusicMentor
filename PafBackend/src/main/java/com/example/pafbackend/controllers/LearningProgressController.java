@@ -1,6 +1,6 @@
 //commit 
 
-package com.example.pafbackend.controllers
+package com.example.pafbackend.controllers;
 
 import com.example.pafbackend.models.LearningProgress;
 import com.example.pafbackend.repositories.LearningProgressRepository;
