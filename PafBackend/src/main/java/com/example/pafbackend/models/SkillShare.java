@@ -13,7 +13,7 @@ import java.util.List;
 public class SkillShare {
     @Id
     private String id;
-    private String userId;
+    private String userId;//userid
     private String mealDetails;
     private String dietaryPreferences;
     private List<String> mediaUrls;  // Changed from single mediaUrl to list
